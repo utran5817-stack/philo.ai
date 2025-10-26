@@ -411,6 +411,264 @@ Derrida phát minh ra từ "différance" (một từ Pháp có thể có nghĩa 
 Derrida đã có ảnh hưởng sâu rộng đến triết học, văn học, pháp luật, và các ngành khoa học xã hội khác. Mặc dù tư tưởng của ông thường bị coi là khó hiểu và trừu tượng, nó đã buộc chúng ta phải đặt câu hỏi về bản chất của ngôn ngữ, ý nghĩa, và thực tại.`,
     },
   },
+  utilitarianism: {
+    bentham: {
+      name: "Jeremy Bentham: Người Sáng Lập Chủ Nghĩa Vị Lợi",
+      content: `Jeremy Bentham (1748–1832) được coi là người sáng lập ra Chủ nghĩa Vị Lợi cổ điển. Ông tin rằng con người bị thống trị bởi hai chủ thể: đau khổ (pain) và hạnh phúc (pleasure). Một hành động là tốt nếu nó tối đa hóa hạnh phúc và giảm thiểu đau khổ.
+
+Để biến điều này thành khoa học, Bentham đã đề xuất "Phép tính Hạnh phúc" (Hedonic Calculus). Ông cho rằng chúng ta có thể "đo lường" hạnh phúc dựa trên các yếu tố như cường độ, thời gian, độ chắc chắn, độ gần, tính phong phú, tính thuần khiết, và phạm vi.
+
+Đối với Bentham, mọi loại hạnh phúc đều ngang hàng. Ông có câu nói nổi tiếng: "Chỉ cần lượng hạnh phúc là như nhau, trò chơi đinh ghim cũng tốt ngang với thơ ca."
+
+## Phép Tính Hạnh Phúc (Hedonic Calculus)
+
+Bentham phát triển một hệ thống để tính toán hạnh phúc một cách khách quan. Các yếu tố bao gồm:
+
+* **Cường độ:** Hạnh phúc mạnh hay yếu?
+* **Thời gian:** Kéo dài bao lâu?
+* **Độ chắc chắn:** Khả năng xảy ra là bao nhiêu?
+* **Độ gần:** Nó xảy ra ngay lập tức hay phải chờ đợi?
+* **Tính phong phú:** Nó có tạo ra thêm hạnh phúc khác không?
+* **Tính thuần khiết:** Nó có lẫn lộn với đau khổ không?
+* **Phạm vi:** Nó ảnh hưởng đến bao nhiêu người?
+
+Bentham tin rằng bằng cách tính toán các yếu tố này, chúng ta có thể xác định hành động nào sẽ mang lại hạnh phúc lớn nhất.
+
+## Nguyên Tắc Lợi Ích Lớn Nhất (Greatest Happiness Principle)
+
+Bentham phát biểu nguyên tắc cơ bản của Chủ nghĩa Vị Lợi: "Hành động đúng đắn là hành động mang lại hạnh phúc lớn nhất cho số lượng người lớn nhất." Điều này có nghĩa là chúng ta nên luôn cố gắng tối đa hóa hạnh phúc tổng thể của xã hội, không chỉ của bản thân.
+
+## Ứng Dụng Thực Tiễn
+
+Bentham tin rằng Chủ nghĩa Vị Lợi có thể được áp dụng vào chính trị và pháp luật. Ông đề xuất rằng các luật pháp nên được thiết kế để tối đa hóa hạnh phúc của dân chúng. Ông cũng ủng hộ dân chủ, vì ông tin rằng một chính phủ dân chủ sẽ tốt hơn trong việc tối đa hóa hạnh phúc của mọi người.
+
+## Di Sản
+
+Bentham đã có ảnh hưởng sâu rộng đến luật pháp, kinh tế học, và chính sách công. Các phân tích "chi phí - lợi ích" (cost-benefit analysis) trong kinh doanh và chính phủ đều bắt nguồn trực tiếp từ tư duy vị lợi của ông. Mặc dù Chủ nghĩa Vị Lợi của Bentham bị phê phán vì có khả năng hy sinh quyền lợi của thiểu số vì lợi ích của đa số, nó vẫn là một trong những học thuyết đạo đức có ảnh hưởng nhất.`,
+    },
+    mill: {
+      name: "John Stuart Mill: Người Tinh Chỉnh Chủ Nghĩa Vị Lợi",
+      content: `John Stuart Mill (1806–1873) là học trò của Bentham, người đã tinh chỉnh và bảo vệ Chủ nghĩa Vị Lợi, biến nó thành một học thuyết phức tạp và dễ được chấp nhận hơn. Mill nhận ra một vấn đề lớn trong lập luận của Bentham: nó có thể biện minh cho một xã hội "đa số man rợ".
+
+Để giải quyết điều này, Mill đưa ra hai thay đổi quan trọng: phân biệt chất lượng hạnh phúc và nguyên tắc tự do.
+
+## Phân Biệt Chất Lượng Hạnh Phúc
+
+Mill không đồng ý rằng mọi hạnh phúc đều như nhau. Ông cho rằng có "hạnh phúc bậc cao" (thuộc về trí tuệ, tinh thần, nghệ thuật) và "hạnh phúc bậc thấp" (thuộc về thể xác, giác quan). Hạnh phúc bậc cao luôn có giá trị hơn.
+
+Ông tuyên bố: "Thà làm một Socrates bất mãn còn hơn làm một con lợn thỏa mãn." Điều này có nghĩa là một cuộc sống đầy những thách thức trí tuệ và tinh thần, mặc dù có những khó khăn, vẫn tốt hơn một cuộc sống đơn giản, thoải mái nhưng không có ý nghĩa.
+
+## Nguyên Tắc Tự Do (Harm Principle)
+
+Mill lập luận rằng để đạt được hạnh phúc lớn nhất về lâu dài, xã hội phải bảo vệ quyền tự do cá nhân. Quyền lực duy nhất mà xã hội có thể áp đặt lên một cá nhân là để ngăn chặn người đó gây hại cho người khác.
+
+Ông viết: "Cách duy nhất để công lý có thể được bảo vệ là khi mọi người có quyền tự do để sống theo cách họ chọn, miễn là họ không gây hại cho người khác."
+
+## Vị Lợi Hành Động vs. Vị Lợi Quy Tắc
+
+Cuộc tranh luận của Mill đã dẫn đến sự phân chia của học thuyết này:
+
+* **Chủ nghĩa Vị lợi Hành động:** Chúng ta phải áp dụng phép tính hạnh phúc cho từng hành động riêng lẻ. Nếu nói dối trong trường hợp này mang lại kết quả tốt nhất, thì nói dối là đúng.
+* **Chủ nghĩa Vị lợi Quy tắc:** Chúng ta nên tuân theo các quy tắc chung mà nếu mọi người cùng tuân theo, sẽ tạo ra hạnh phúc lớn nhất về lâu dài. Ví dụ: "Không nói dối" là một quy tắc tốt, vì mặc dù nói dối có thể có lợi trong một trường hợp, nhưng nếu nó trở thành quy tắc, xã hội sẽ sụp đổ vì mất lòng tin.
+
+## Di Sản
+
+Mill đã có ảnh hưởng sâu rộng đến triết học, chính trị, và giáo dục. Tư tưởng của ông về quyền tự do và bình đẳng giới đã ảnh hưởng đến sự phát triển của dân chủ hiện đại. Mặc dù Chủ nghĩa Vị Lợi vẫn bị phê phán, Mill đã giúp làm cho nó trở thành một học thuyết đạo đức hợp lý và có tính nhân văn hơn.`,
+    },
+  },
+  existentialism: {
+    sartre: {
+      name: "Jean-Paul Sartre: Triết Gia Của Tự Do",
+      content: `Jean-Paul Sartre (1905–1980) là người định hình Chủ Nghĩa Hiện Sinh vô thần. Ông nổi tiếng với các khái niệm "sự tồn tại có trước bản chất", "bị kết án phải tự do", và "sự giả dối" (bad faith).
+
+Sartre khẳng định con người là "tổng hòa các hành động của mình". Chúng ta không có một "bản chất" cố định mà chúng ta sinh ra với nó. Thay vào đó, chúng ta tạo ra bản chất của mình thông qua những lựa chọn mà chúng ta đưa ra.
+
+## Sự Tồn Tại Có Trước Bản Chất (Existence Precedes Essence)
+
+Đây là khẩu hiệu cốt lõi của Chủ Nghĩa Hiện Sinh. Đối với các vật thể (như một cái búa), "bản chất" (nó được thiết kế để làm gì) có trước khi nó "tồn tại". Nhưng đối với con người, điều ngược lại là đúng.
+
+Con người được "ném" vào thế giới này (tồn tại) trước, mà không có bất kỳ mục đích, kế hoạch, hay "bản chất" nào được định sẵn bởi Chúa hay tự nhiên. Vì vậy, con người hoàn toàn tự do trong việc lựa chọn và tạo ra bản chất, ý nghĩa, và giá trị cho chính cuộc đời mình.
+
+## Bị Kết Án Phải Tự Do (Condemned to Be Free)
+
+Sartre lập luận rằng vì không có bản chất định sẵn, chúng ta "bị kết án phải tự do". Mọi lựa chọn chúng ta đưa ra đều định hình chúng ta là ai. Chúng ta không thể đổ lỗi cho "bản tính", "hoàn cảnh", hay "Chúa".
+
+Sự tự do này mang đến một gánh nặng trách nhiệm to lớn, không chỉ cho bản thân mà còn cho toàn nhân loại. Khi lựa chọn, chúng ta đang khẳng định giá trị mà chúng ta tin rằng mọi người nên theo.
+
+## Sự Giả Dối (Bad Faith)
+
+Sartre giới thiệu khái niệm "sự giả dối" (bad faith) - khi chúng ta tự lừa dối mình để trốn tránh tự do và trách nhiệm. Ví dụ, một người có thể nói "Tôi phải làm việc này vì đó là công việc của tôi" - nhưng thực ra, họ đã chọn công việc đó, và họ có thể chọn bỏ nó.
+
+Sự giả dối là một cách để chúng ta tự lừa dối mình rằng chúng ta không có lựa chọn, rằng chúng ta bị ràng buộc bởi hoàn cảnh. Nhưng Sartre cho rằng đây là một sự tự phản bội - chúng ta đang từ chối sự tự do của mình.
+
+## Tự Do Và Trách Nhiệm
+
+Sartre tin rằng tự do và trách nhiệm là không thể tách rời. Vì chúng ta tự do, chúng ta hoàn toàn chịu trách nhiệm cho những lựa chọn của mình. Chúng ta không thể nói "Tôi không có lựa chọn" hoặc "Đó là lỗi của xã hội".
+
+Điều này có ý nghĩa sâu sắc cho đạo đức. Nó có nghĩa là chúng ta không thể trốn tránh trách nhiệm đạo đức bằng cách nói rằng chúng ta bị ép buộc. Chúng ta phải chịu trách nhiệm cho những lựa chọn của mình, dù chúng tốt hay xấu.
+
+## Di Sản
+
+Sartre đã có ảnh hưởng sâu rộng đến triết học, văn học, và chính trị. Tư tưởng của ông về tự do và trách nhiệm đã buộc chúng ta phải đối mặt với những câu hỏi khó khăn nhất về cuộc sống con người. Mặc dù một số ý tưởng của ông đã bị thách thức, Sartre vẫn được công nhận là một trong những nhà triết học vĩ đại nhất của thế kỷ 20.`,
+    },
+    camus: {
+      name: "Albert Camus: Triết Gia Của Sự Phi Lý",
+      content: `Albert Camus (1913–1960) mặc dù từ chối nhãn hiệu "hiện sinh", được coi là một trụ cột của phong trào. Ông tập trung vào Sự Phi Lý (The Absurd) - cảm giác xung đột khi con người khao khát tìm kiếm ý nghĩa nhưng lại phải đối mặt với một vũ trụ lạnh lùng, phi lý, im lặng, không đưa ra câu trả lời nào.
+
+## Sự Phi Lý (The Absurd)
+
+Camus ví con người như Sisyphus, người bị kết án phải đẩy một tảng đá lên đồi, để rồi nó lại lăn xuống, lặp lại vĩnh viễn. Đây là hình ảnh của sự phi lý - sự xung đột giữa mong muốn của con người tìm kiếm ý nghĩa và sự vô ý nghĩa của vũ trụ.
+
+Camus lập luận rằng cuộc sống con người cũng giống như vậy. Chúng ta sinh ra, chúng ta làm việc, chúng ta chết. Không có mục đích cuối cùng, không có ý nghĩa vĩnh cửu. Mọi thứ chúng ta làm cuối cùng cũng sẽ bị lãng quên.
+
+## Ba Phản Ứng Trước Sự Phi Lý
+
+Camus xác định ba phản ứng có thể trước sự phi lý:
+
+1. **Tự Tử:** Một số người, khi nhận ra sự vô ý nghĩa của cuộc sống, chọn tự tử. Nhưng Camus cho rằng đây không phải là giải pháp. Tự tử là một sự thừa nhận của sự phi lý, nhưng nó không giải quyết vấn đề.
+
+2. **Hy Vọng Hão Huyền:** Một số người tìm kiếm ý nghĩa trong tôn giáo hoặc triết học. Nhưng Camus cho rằng đây cũng là một sự tự lừa dối. Chúng ta không thể tìm thấy ý nghĩa khách quan trong một vũ trụ vô ý nghĩa.
+
+3. **Sự Nổi Loạn (Revolt):** Giải pháp của Camus là Sự Nổi Loạn. Chúng ta phải "nổi loạn" bằng cách sống hết mình, yêu tự do, và đam mê, ngay cả khi biết rằng mọi thứ là vô nghĩa.
+
+## Người Ta Phải Hình Dung Sisyphus Hạnh Phúc
+
+Camus kết luận tiểu luận nổi tiếng của ông về Sisyphus bằng câu nói: "Người ta phải hình dung Sisyphus hạnh phúc." Điều này có nghĩa là chúng ta phải chấp nhận sự vô ý nghĩa của cuộc sống, nhưng vẫn sống một cuộc sống đầy ý nghĩa và hạnh phúc.
+
+Hạnh phúc không đến từ việc tìm thấy ý nghĩa khách quan, mà từ việc chấp nhận sự vô ý nghĩa và vẫn chọn sống một cuộc sống tốt đẹp.
+
+## Tình Yêu Vận Mệnh (Amor Fati)
+
+Camus tin rằng chúng ta nên yêu lấy định mệnh của mình. Chúng ta không thể thay đổi thực tế rằng cuộc sống là vô ý nghĩa, nhưng chúng ta có thể chọn cách chúng ta phản ứng với nó.
+
+Bằng cách chấp nhận sự vô ý nghĩa và vẫn chọn sống một cuộc sống đầy đam mê, chúng ta đạt được một loại tự do và hạnh phúc mà không phụ thuộc vào ý nghĩa khách quan.
+
+## Di Sản
+
+Camus đã có ảnh hưởng sâu rộng đến văn học, điện ảnh, và triết học. Tư tưởng của ông về sự phi lý và sự nổi loạn đã buộc chúng ta phải đối mặt với những câu hỏi khó khăn nhất về ý nghĩa của cuộc sống. Mặc dù một số ý tưởng của ông đã bị thách thức, Camus vẫn được công nhận là một trong những nhà tư tưởng vĩ đại nhất của thế kỷ 20.`,
+    },
+  },
+  nihilism: {
+    "friedrich-nietzsche": {
+      name: "Friedrich Nietzsche: Triết Gia Với Cây Búa",
+      content: `Friedrich Nietzsche (1844–1900) là một nhà triết học, nhà phê bình văn hóa, nhà thơ, và nhà ngữ văn học người Đức. Ông là một trong những nhà tư tưởng có ảnh hưởng sâu sắc, phức tạp và gây tranh cãi nhất trong lịch sử triết học phương Tây. Triết học của ông nổi tiếng với phong cách viết châm biếm, đầy tính tiên tri và sử dụng các câu cách ngôn (aphorism) sắc bén. Ông tự gọi mình là "triết gia với cây búa", sẵn sàng đập vỡ những thần tượng và nền tảng tư tưởng cũ kỹ của phương Tây.
+
+Tác phẩm của ông tấn công trực diện vào đạo đức truyền thống, tôn giáo (đặc biệt là Kitô giáo), và các hệ thống triết học duy lý như của Plato và Kant. Ông không đưa ra một hệ thống hoàn chỉnh, mà là một loạt các "cuộc thử nghiệm tư tưởng" nhằm chẩn đoán và vượt qua căn bệnh của thời hiện đại.
+
+## "Chúa Đã Chết" và Chẩn Đoán Chủ Nghĩa Hư Vô
+
+Một trong những tuyên bố nổi tiếng và bị hiểu lầm nhiều nhất của Nietzsche là "CHÚA ĐÃ CHẾT" (God is dead). Đây không phải là một lời reo hò ăn mừng của một người vô thần. Đối với Nietzsche, đây là một sự kiện văn hóa bi thảm và trọng đại nhất của lịch sử hiện đại.
+
+"Chúa" ở đây đại diện cho toàn bộ hệ thống giá trị siêu việt của Do Thái-Cơ Đốc giáo – nền tảng đạo đức, ý nghĩa, và mục đích đã thống trị phương Tây suốt 2000 năm. "Cái chết" của Chúa là kết quả của Thời kỳ Khai sáng và sự trỗi dậy của khoa học, khiến cho niềm tin vào một trật tự đạo đức vũ trụ khách quan trở nên không còn khả tín.
+
+Khi nền tảng này sụp đổ, Nietzsche cảnh báo, nhân loại sẽ rơi vào một khoảng trống đáng sợ: CHỦ NGHĨA HƯ VÔ (Nihilism). Con người sẽ mất đi la bàn đạo đức, mất đi ý nghĩa sống, và tin rằng "mọi thứ đều vô nghĩa". Đây chính là "căn bệnh" mà Nietzsche chẩn đoán.
+
+## Ý Chí Đến Quyền Lực (Will to Power)
+
+Để vượt qua Chủ nghĩa Hư Vô, Nietzsche đề xuất một cách nhìn mới về thực tại. Ông cho rằng động lực cơ bản nhất của mọi sinh vật, và của cả vũ trụ, không phải là "ý chí sống" (như Schopenhauer) hay mưu cầu hạnh phúc, mà là "Ý CHÍ ĐẾN QUYỀN LỰC" (Will to Power).
+
+Đây không phải là khao khát thống trị người khác (mặc dù nó có thể bao gồm điều đó), mà là một động lực sáng tạo nội tại, một ý chí muốn khẳng định bản thân, muốn phát triển, muốn vượt qua các chướng ngại, và muốn "trở thành người mà mình là". Đó là ý chí muốn áp đặt hình thức của mình lên sự hỗn loạn, muốn sáng tạo giá trị.
+
+## Đạo Đức Chủ-Nô và "Tái Định Giá Mọi Giá Trị"
+
+Nietzsche phê phán gay gắt nền đạo đức truyền thống (đặc biệt là Kitô giáo) là một "nền đạo đức nô lệ" (slave morality).
+
+* ĐẠO ĐỨC CHỦ (Master morality): Là đạo đức của giới quý tộc cổ đại (Hy Lạp, La Mã). Họ tự định nghĩa "tốt" là những gì mạnh mẽ, cao thượng, kiêu hãnh, sáng tạo (những gì giống họ). "Xấu" là những gì yếu đuối, tầm thường, hèn nhát.
+
+* ĐẠO ĐỨC NÔ LỆ (Slave morality): Bắt nguồn từ sự "oán hận" (ressentiment) của những kẻ yếu đuối, bị trị. Vì không thể thắng bằng sức mạnh, họ đã thực hiện một "cuộc nổi loạn" về giá trị: họ gọi những gì của kẻ mạnh (kiêu hãnh, giàu có) là "ác", và biến những gì của mình (khiêm tốn, nghèo đói, vâng lời, chịu đựng) thành "thiện".
+
+Nietzsche cho rằng đạo đức nô lệ đã chiến thắng ở phương Tây (thông qua Kitô giáo và sau này là chủ nghĩa xã hội), tạo ra một xã hội tôn thờ sự yếu đuối, tầm thường, và "bầy đàn".
+
+Giải pháp của ông là "TÁI ĐỊNH GIÁ MỌI GIÁ TRỊ" (Revaluation of All Values) – một cuộc lật đổ nền đạo đức nô lệ để tạo ra một nền đạo đức mới, khẳng định sự sống, sức mạnh, và Ý chí đến Quyền lực.
+
+## Siêu Nhân (Übermensch) và Sự Quay Vòng Vĩnh Cửu
+
+* ÜBERMENSCH (Siêu nhân): Đây là hình mẫu lý tưởng của Nietzsche, là mục tiêu mà nhân loại nên hướng tới sau khi "Chúa đã chết". Siêu nhân không phải là một chủng tộc, mà là một cá nhân đã vượt qua Chủ nghĩa Hư Vô, tự mình sáng tạo ra giá trị mới. Đó là người đủ mạnh mẽ để chấp nhận cuộc sống trần thế này, với tất cả khổ đau và niềm vui của nó, mà không cần đến sự an ủi của thế giới bên kia.
+
+* SỰ QUAY VÒNG VĨNH CỬU (Eternal Recurrence): Đây là "bài kiểm tra" cuối cùng của Nietzsche: Bạn có sẵn lòng sống lại cuộc đời này, chính xác như nó đã diễn ra, lặp đi lặp lại vô tận không? Một người bình thường sẽ kinh hãi, nhưng Siêu nhân sẽ reo lên: "Thêm một lần nữa!" Đó là sự khẳng định tuyệt đối với cuộc sống: AMOR FATI (Yêu lấy định mệnh).
+
+Di sản: Nietzsche đã ảnh hưởng đến vô số triết gia (Hiện sinh, Hậu hiện đại), nhà văn, và nghệ sĩ. Ông vẫn là một tiếng nói đầy khiêu khích, buộc chúng ta phải chất vấn những giá trị sâu sắc nhất của chính mình.`,
+    },
+    "ivan-turgenev": {
+      name: "Ivan Turgenev: Người Ghi Lại Chủ Nghĩa Hư Vô",
+      content: `Ivan Turgenev (1818–1883) là một tiểu thuyết gia, nhà viết kịch, và nhà văn viết truyện ngắn vĩ đại người Nga. Ông là một trong những nhân vật trung tâm của văn học Nga thế kỷ 19, cùng thời với Dostoevsky và Tolstoy. Tuy nhiên, vị trí của ông trong lịch sử triết học không phải với tư cách là một nhà triết học hệ thống, mà là một nhà chẩn đoán xã hội nhạy bén, người đã nắm bắt và ĐẶT TÊN cho một trong những trào lưu tư tưởng quan trọng nhất thời đại: CHỦ NGHĨA HƯ VÔ (Nihilism).
+
+Turgenev không phát minh ra Chủ nghĩa Hư Vô, nhưng ông đã biến nó từ một khái niệm triết học mờ nhạt thành một hiện tượng văn hóa bùng nổ thông qua cuốn tiểu thuyết bất hủ của mình, "Cha và Con" (Fathers and Sons), xuất bản năm 1862.
+
+## Bối Cảnh: Nước Nga Nổi Loạn
+
+Để hiểu vai trò của Turgenev, chúng ta phải hiểu bối cảnh nước Nga những năm 1860. Đó là một thời kỳ thay đổi xã hội dữ dội. Chế độ nông nô sắp bị bãi bỏ (1861), và một thế hệ trẻ, cấp tiến đang nổi lên, được gọi là "raznochintsy" (những người thuộc nhiều tầng lớp khác nhau, thường là con của bác sĩ, linh mục, tiểu quý tộc nghèo).
+
+Thế hệ trẻ này chán ghét trật tự cũ, chán ghét tầng lớp quý tộc tự do lãng mạn của những năm 1840 (thế hệ "cha"). Họ đòi hỏi một sự thay đổi triệt để. Họ bác bỏ nghệ thuật, truyền thống, tôn giáo, và thay vào đó đặt niềm tin tuyệt đối vào khoa học thực nghiệm, chủ nghĩa duy vật, và chủ nghĩa thực dụng.
+
+## "Cha và Con" và Sự Ra Đời Của Bazarov
+
+Turgenev đã nắm bắt chính xác sự xung đột thế hệ này trong "Cha và Con". Cuốn tiểu thuyết kể về Arkady, một thanh niên quý tộc trẻ, trở về nhà từ trường đại học cùng với người bạn của mình, Yevgeny Bazarov.
+
+BAZAROV chính là hình mẫu của thế hệ mới. Ông là một sinh viên y khoa thông minh, kiêu ngạo, và cực kỳ thực dụng. Khi được hỏi ông là ai, Bazarov tự nhận mình là một "NHÀ HƯ VÔ" (Nihilist).
+
+Turgenev, thông qua nhân vật Bazarov, đã định nghĩa "Nhà Hư Vô" là gì:
+* Đó là người "không cúi đầu trước bất kỳ thẩm quyền nào".
+* Đó là người "không chấp nhận bất kỳ nguyên tắc nào dựa trên niềm tin, bất kể nguyên tắc đó có được tôn kính đến đâu."
+* Họ chỉ tin vào những gì có thể được kiểm chứng bằng khoa học và giác quan.
+
+Bazarov bác bỏ mọi thứ: tình yêu lãng mạn (chỉ là "sinh lý học"), nghệ thuật (cho rằng "một nhà hóa học giỏi còn hữu ích gấp hai mươi lần một nhà thơ"), vẻ đẹp của tự nhiên, và các nghĩa vụ gia đình truyền thống. Ông tin rằng nhiệm vụ của thế hệ mình là "dọn dẹp mặt bằng" – phá hủy mọi thứ của trật tự cũ – trước khi có thể xây dựng bất cứ điều gì mới.
+
+## Phản Ứng và Di Sản
+
+Cuốn tiểu thuyết đã gây ra một cơn bão lửa.
+
+* PHÍA BẢO THỤ (thế hệ "cha"): Coi Turgenev là kẻ bôi nhọ, ca ngợi một thế hệ trẻ nguy hiểm, vô đạo đức.
+* PHÍA CẤP TIẾN (thế hệ "con"): Coi Turgenev là kẻ vu khống. Họ cảm thấy Bazarov được miêu tả như một bức biếm họa lạnh lùng, và cái chết bi thảm của ông (do nhiễm trùng khi mổ xẻ) là sự trừng phạt của tác giả đối với tư tưởng của ông.
+
+Sự thật là Turgenev có một thái độ rất phức tạp với Bazarov. Ông vừa ngưỡng mộ sự trung thực, mạnh mẽ, và trí tuệ của nhân vật, nhưng cũng vừa kinh hãi trước sự khô khan, tàn nhẫn, và tính phá hủy trong tư tưởng của anh ta. Turgenev, một người theo chủ nghĩa tự do ôn hòa, bị kẹt ở giữa hai thế hệ.
+
+Nhưng điều quan trọng nhất là: THUẬT NGỮ "NIHILISM" (Chủ Nghĩa Hư Vô) ĐÃ BÙNG NỔ.
+
+Các nhà tư tưởng cấp tiến, thay vì tức giận, đã chấp nhận cái tên này. Họ tự hào gọi mình là "Nhà Hư Vô", coi đó là biểu tượng cho sự từ chối hoàn toàn quá khứ.
+
+Từ đó, "Nihilism" không còn là một khái niệm trừu tượng. Nó trở thành một phong trào chính trị-xã hội ở Nga, gắn liền với chủ nghĩa vô chính phủ và cách mạng. Và quan trọng hơn, nó đi vào dòng chảy triết học châu Âu, được các nhà tư tưởng như Dostoevsky (trong "Lũ Quỷ") và sau này là Nietzsche mổ xẻ sâu sắc hơn về mặt triết học.
+
+Kết luận: Ivan Turgenev, với tư cách là một nghệ sĩ, đã làm điều mà ít triết gia nào làm được: ông nắm bắt một tư tưởng đang manh nha trong không khí, đặt cho nó một cái tên, và thông qua một nhân vật hư cấu (Bazarov), ông đã định hình cuộc tranh luận triết học và chính trị trong nhiều thập kỷ sau đó.`,
+    },
+    "emil-cioran": {
+      name: "Emil Cioran: Nhà Thơ Của Nỗi Tuyệt Vọng",
+      content: `Emil Cioran (1911–1995) là một triết gia và nhà tiểu luận người Romania, người đã sống phần lớn cuộc đời mình tại Paris và viết bằng tiếng Pháp. Ông được biết đến với phong cách văn xuôi trữ tình, độc đáo, và trên hết là tư tưởng bi quan sâu sắc, tập trung vào các chủ đề như sự đau khổ, sự mục rữa, nỗi thống khổ của sự tồn tại, và sự vô nghĩa tuyệt đối.
+
+Cioran không phải là một nhà triết học hệ thống. Ông không xây dựng các lập luận logic phức tạp. Thay vào đó, ông là một nhà văn của CÂU CÁCH NGÔN (aphorism) – những đoạn văn ngắn, cô đọng, sắc như dao cạo, ghi lại những suy tư và cảm xúc của ông về "sự bất tiện của việc được sinh ra".
+
+Ông thường được xếp cùng nhóm với các nhà tư tưởng hư vô và hiện sinh, nhưng Cioran còn đi xa hơn. Nếu Camus tìm thấy sự nổi loạn trong phi lý, thì Cioran tìm thấy một sự mỉa mai mệt mỏi. Ông là tiếng nói của sự "mất ngủ" triết học.
+
+## Sự Bất Tiện Của Việc Được Sinh Ra
+
+Đây là tựa đề một trong những tác phẩm nổi tiếng nhất của ông (The Trouble with Being Born), và nó tóm tắt hoàn hảo triết lý của ông. Đối với Cioran, sự kiện bi thảm nhất trong cuộc đời mỗi người chính là SỰ RA ĐỜI.
+
+Ông lập luận rằng tồn tại tự nó đã là một gánh nặng, một sai lầm. "Không phải tôi, mà chính sự tồn tại đã tạo ra tôi." Con người bị "ném" vào một cuộc tồn tại mà không được hỏi ý kiến, và bị buộc phải chịu đựng gánh nặng của ý thức. Ý thức, đối với Cioran, là một lời nguyền. Nó là thứ tách chúng ta ra khỏi trạng thái "ban phúc" của sự không tồn tại, của thế giới vô cơ. Con vật hạnh phúc hơn con người vì nó không ý thức được sự tồn tại hay cái chết của mình.
+
+## Sự Đau Khổ và Mất Ngủ
+
+Tư tưởng bi quan của Cioran không chỉ là một trò chơi trí tuệ; nó bắt nguồn sâu sắc từ trải nghiệm cá nhân của ông, đặc biệt là chứng MẤT NGỦ (insomnia) kinh niên. Ông trải qua hàng đêm dài thức trắng, và chính trong sự im lặng của màn đêm, khi "cái tôi" bị phơi bày, ông đã đối mặt trực tiếp với sự trống rỗng của tồn tại.
+
+Đau khổ không phải là một tai nạn trong cuộc sống; nó là bản chất của cuộc sống. Ông viết: "Tôi chỉ biết đến những khoảnh khắc; tôi không tin vào hạnh phúc. Và trong mọi khoảnh khắc, tôi đều ý thức được sự trống rỗng."
+
+## Ảnh Hưởng Từ Nietzsche và Schopenhauer
+
+Cioran chịu ảnh hưởng sâu sắc từ hai nhà bi quan vĩ đại là Schopenhauer và Nietzsche.
+
+* Từ SCHOPENHAUER, ông lấy ý tưởng rằng "Ý chí" (Will) – lực đẩy mù quáng của sự sống – là nguồn gốc của mọi đau khổ.
+* Từ NIETZSCHE, ông lấy sự can đảm để tấn công các giá trị truyền thống và sử dụng phong cách viết mạnh mẽ.
+
+Tuy nhiên, Cioran khác Nietzsche ở một điểm cơ bản: Ông không tin vào bất kỳ giải pháp nào. Nếu Nietzsche đưa ra "Siêu nhân" (Übermensch) như một cách để vượt qua Chủ nghĩa Hư Vô, thì Cioran coi đó chỉ là một ảo ảnh anh hùng khác. Đối với Cioran, không có "vượt qua"; chỉ có sự chấp nhận và chung sống với cái trống rỗng (the void).
+
+## Triết Học Như Một Hình Thức Trị Liệu Thất Bại
+
+Cioran hoài nghi sâu sắc về chính triết học. Ông coi các hệ thống triết học (như của Hegel hay Kant) là những nỗ lực vô ích nhằm che đậy sự thật trần trụi của đau khổ bằng các khái niệm trừu tượng. "Viết lách," đối với ông, "không phải là để xây dựng một tác phẩm, mà là để giảm bớt gánh nặng của bản thân."
+
+Viết lách, đặc biệt là các câu cách ngôn, là cách duy nhất để ông "sống sót". Mỗi câu văn ông viết ra là một tiếng rít, một cách để tống khứ "nọc độc" của sự tồn tại ra khỏi cơ thể mình. Đó là một hình thức trị liệu cá nhân, một cách để giữ cho mình không phát điên hoặc tự sát. Ông từng nói rằng nếu không có khả năng viết lách, ông đã tự kết liễu đời mình từ lâu.
+
+Di sản: Cioran không cung cấp câu trả lời hay sự an ủi. Ông cung cấp một sự đồng hành. Ông là nhà thơ của nỗi tuyệt vọng, người đã diễn đạt sự lo âu của thế kỷ 20 bằng một ngôn ngữ chính xác và đẹp đẽ đến tàn nhẫn. Đọc Cioran là nhìn thẳng vào vực thẳm, nhưng không phải một mình, mà với một người bạn đồng hành thông minh và mỉa mai.`,
+    },
+  },
 }
 
 export default function PhilosopherDetailPage() {
@@ -446,9 +704,9 @@ export default function PhilosopherDetailPage() {
         animate={{ opacity: 1, y: 0 }}
       >
         <div className="max-w-4xl mx-auto px-4 py-4 flex items-center gap-4">
-          <Link href="/" className="p-2 hover:bg-muted rounded-lg transition-colors">
+          <button onClick={() => window.history.back()} className="p-2 hover:bg-muted rounded-lg transition-colors">
             <ChevronLeft className="w-6 h-6" />
-          </Link>
+          </button>
           <h1 className="text-2xl font-bold text-accent" style={{ fontFamily: "var(--font-playfair)" }}>
             {content.name}
           </h1>
@@ -488,13 +746,13 @@ export default function PhilosopherDetailPage() {
           animate={{ opacity: 1 }}
           transition={{ delay: 0.3 }}
         >
-          <Link
-            href="/"
+          <button
+            onClick={() => window.history.back()}
             className="inline-flex items-center gap-2 px-6 py-3 bg-primary text-primary-foreground rounded-lg font-semibold hover:bg-primary/90 transition-colors"
           >
             <ChevronLeft className="w-5 h-5" />
-            Quay Lại Bản Đồ Thiên Hà
-          </Link>
+            Quay Lại Trang Trước
+          </button>
         </motion.div>
       </div>
     </div>

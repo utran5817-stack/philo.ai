@@ -2,8 +2,7 @@
 
 import { useState, useEffect } from "react"
 import { motion, AnimatePresence } from "framer-motion"
-import { ChevronLeft } from "lucide-react"
-import AIChat from "./ai-chat"
+import { ChevronLeft, X } from "lucide-react"
 import PhilosopherModal from "./philosopher-modal"
 
 const topicData: Record<string, any> = {
@@ -244,41 +243,82 @@ Nếu Chủ nghĩa Hiện đại vẫn tin tưởng vào lý trí, tiến bộ, 
       },
     ],
   },
-  nihilism: {
-    name: "CHỦ NGHĨA HƯ VÔ",
-    introduction: `Chủ Nghĩa Hư Vô (Nihilism), bắt nguồn từ tiếng Latinh "nihil" có nghĩa là "không có gì", là một trường phái triết học hoặc một quan điểm cho rằng cuộc sống không có ý nghĩa, mục đích, hoặc giá trị nội tại khách quan. Đây là một trong những tư tưởng triết học mang tính thách thức và thường bị hiểu lầm nhất.
+  utilitarianism: {
+    name: "CHỦ NGHĨA VỊ LỢI",
+    introduction: `Chủ Nghĩa Vị Lợi là một học thuyết triết học về đạo đức thuộc hệ thống Thuyết Hậu Quả (Consequentialism). Cốt lõi của nó là một ý tưởng có vẻ đơn giản nhưng đầy sức mạnh: hành động đúng về mặt đạo đức là hành động mang lại lợi ích (utility) lớn nhất cho số lượng người lớn nhất.
 
-Chủ nghĩa Hư Vô không phải là một hệ thống có tổ chức mà bạn có thể "tham gia". Thay vào đó, nó là một kết luận triết học, thường là một kết luận bi quan, xuất phát từ sự hoài nghi triệt để đối với các hệ thống giá trị đã được thiết lập. Nó đặt câu hỏi: Nếu Thượng Đế đã chết (hoặc không bao giờ tồn tại), nếu khoa học không thể cho ta biết tại sao ta ở đây, và nếu mọi nền đạo đức đều chỉ là sáng tạo của xã hội, vậy thì cơ sở cho bất kỳ giá trị nào là gì?
-
-Chủ nghĩa Hư Vô có thể được chia thành nhiều dạng khác nhau, tấn công vào các khía cạnh khác nhau của sự tồn tại. Hư Vô Nhận Thức Luận (Epistemological Nihilism) là hình thức hoài nghi triệt để nhất về tri thức, cho rằng không có tri thức nào là chắc chắn. Hư Vô Đạo Đức (Moral Nihilism) khẳng định rằng không có hành động nào là "đúng" hay "sai" về mặt đạo đức một cách khách quan. Hư Vô Hiện Sinh (Existential Nihilism) cho rằng cuộc sống con người không có ý nghĩa hay mục đích nội tại.
-
-Friedrich Nietzsche, mặc dù không phải là một nhà hư vô chủ nghĩa theo nghĩa đen, là người chẩn đoán "căn bệnh" Hư Vô của thời hiện đại một cách sâu sắc nhất. Câu nói nổi tiếng "Chúa đã chết" không phải là một lời reo hò ăn mừng, mà là một lời cảnh báo bi thảm về sự sụp đổ của nền tảng giá trị phương Tây. Nietzsche cảnh báo rằng khi nền tảng này sụp đổ, nhân loại sẽ rơi vào một khoảng trống đáng sợ: Chủ nghĩa Hư Vô.
-
-Tuy nhiên, Nietzsche không dừng lại ở việc chẩn đoán. Ông coi Hư Vô là một "giai đoạn chuyển tiếp" nguy hiểm mà con người phải vượt qua. Giải pháp của ông là "sự tái định giá mọi giá trị" - con người không nên tìm kiếm ý nghĩa bên ngoài, mà phải tạo ra ý nghĩa cho chính mình. Ông giới thiệu hình mẫu "Siêu nhân" (Übermensch): một cá nhân đủ mạnh mẽ để đối mặt với sự thật rằng vũ trụ là vô nghĩa, tự mình tạo ra hệ thống giá trị của riêng mình, và "yêu lấy định mệnh" của mình (Amor Fati).
-
-Do đó, Chủ nghĩa Hư Vô thường được coi là "điểm 0" của triết học. Nó là vực thẳm mà nhiều tư tưởng (như Chủ nghĩa Hiện sinh của Sartre và Camus) phải đối mặt và cố gắng tìm cách vượt qua, bằng cách thừa nhận sự vô nghĩa của vũ trụ nhưng vẫn khẳng định giá trị của tự do, lựa chọn và trải nghiệm của con người.`,
-    quote: '"Chúa đã chết. Và chúng ta đã giết chết Ngài." - Friedrich Nietzsche',
+"Lợi ích" (utility) ở đây thường được định nghĩa là hạnh phúc, niềm vui, hoặc sự thỏa mãn sở thích, và ngược lại là sự vắng mặt của đau khổ. Không giống như các học thuyết đạo đức khác tập trung vào ý định hay phẩm chất, Chủ nghĩa Vị Lợi chỉ quan tâm đến một thứ duy nhất: kết quả.`,
+    quote:
+      '"Hành động đúng đắn là hành động mang lại hạnh phúc lớn nhất cho số lượng người lớn nhất." - Jeremy Bentham',
     philosophers: [
       {
-        name: "Friedrich Nietzsche",
-        role: "Nhà triết học Đức",
+        name: "Jeremy Bentham",
+        role: "Nhà triết học Anh",
         description:
-          "Friedrich Nietzsche (1844-1900) là một trong những nhà triết học có ảnh hưởng nhất của thế kỷ 19. Mặc dù không phải là một nhà hư vô chủ nghĩa theo nghĩa đen, ông là người chẩn đoán 'căn bệnh' Hư Vô của thời hiện đại một cách sâu sắc nhất. Câu nói nổi tiếng 'Chúa đã chết' không phải là một lời reo hò ăn mừng, mà là một lời cảnh báo bi thảm. Nietzsche cảnh báo rằng khi nền tảng giá trị phương Tây sụp đổ, nhân loại sẽ rơi vào Chủ nghĩa Hư Vô. Tuy nhiên, ông không dừng lại ở việc chẩn đoán, mà đề xuất giải pháp: 'sự tái định giá mọi giá trị' và hình mẫu 'Siêu nhân'.",
-        slug: "nietzsche",
+          "Jeremy Bentham (1748–1832) được coi là người sáng lập ra Chủ nghĩa Vị Lợi cổ điển. Ông tin rằng con người bị thống trị bởi hai chủ thể: đau khổ (pain) và hạnh phúc (pleasure). Ông đề xuất 'Phép tính Hạnh phúc' (Hedonic Calculus) để đo lường hạnh phúc dựa trên các yếu tố như cường độ, thời gian, độ chắc chắn, độ gần, tính phong phú, tính thuần khiết, và phạm vi. Đối với Bentham, mọi loại hạnh phúc đều ngang hàng.",
+        slug: "bentham",
       },
       {
-        name: "Ivan Turgenev",
-        role: "Nhà văn Nga",
+        name: "John Stuart Mill",
+        role: "Nhà triết học Anh",
         description:
-          "Ivan Turgenev (1818-1883) là một nhà văn Nga nổi tiếng, người đã phổ biến khái niệm 'Nihilism' thông qua tiểu thuyết 'Cha Và Con' (Fathers and Sons). Nhân vật Bazarov trong tiểu thuyết này là một hình mẫu của nhà hư vô chủ nghĩa - một thanh niên thông minh, độc lập, người phủ nhận tất cả các giá trị truyền thống và chỉ tin tưởng vào khoa học và lý trí. Turgenev đã giúp làm cho Nihilism trở thành một phong trào tư tưởng thực sự ở Nga, ảnh hưởng đến nhiều thế hệ thanh niên.",
-        slug: "turgenev",
+          "John Stuart Mill (1806–1873) là học trò của Bentham, người đã tinh chỉnh và bảo vệ Chủ nghĩa Vị Lợi. Mill nhận ra một vấn đề lớn trong lập luận của Bentham và đưa ra hai thay đổi quan trọng: phân biệt chất lượng hạnh phúc (hạnh phúc bậc cao vs bậc thấp) và nguyên tắc tự do (Harm Principle). Mill lập luận rằng để đạt được hạnh phúc lớn nhất về lâu dài, xã hội phải bảo vệ quyền tự do cá nhân.",
+        slug: "mill",
+      },
+    ],
+  },
+  existentialism: {
+    name: "CHỦ NGHĨA HIỆN SINH",
+    introduction: `Chủ Nghĩa Hiện Sinh là một trào lưu triết học và văn hóa tập trung vào trải nghiệm cá nhân, sự tự do, và trách nhiệm trong một thế giới dường như vô nghĩa hoặc phi lý. Khẩu hiệu cốt lõi và nổi tiếng nhất của nó là: "Sự tồn tại có trước bản chất" (Existence precedes essence).
+
+Điều này có nghĩa là con người được "ném" vào thế giới này mà không có bất kỳ mục đích, kế hoạch, hay "bản chất" nào được định sẵn. Vì vậy, con người hoàn toàn tự do trong việc lựa chọn và tạo ra bản chất, ý nghĩa, và giá trị cho chính cuộc đời mình.`,
+    quote: '"Chúng ta bị kết án phải tự do." - Jean-Paul Sartre',
+    philosophers: [
+      {
+        name: "Jean-Paul Sartre",
+        role: "Nhà triết học Pháp",
+        description:
+          "Jean-Paul Sartre (1905–1980) là người định hình Chủ Nghĩa Hiện Sinh vô thần. Ông nổi tiếng với các khái niệm 'sự tồn tại có trước bản chất', 'bị kết án phải tự do', và 'sự giả dối' (bad faith). Sartre khẳng định con người là 'tổng hòa các hành động của mình'. Ông tin rằng chúng ta hoàn toàn chịu trách nhiệm cho những lựa chọn của mình, và không thể đổ lỗi cho hoàn cảnh hay bản tính.",
+        slug: "sartre",
       },
       {
-        name: "Emil Cioran",
-        role: "Nhà triết học Romania",
+        name: "Albert Camus",
+        role: "Nhà triết học Pháp",
         description:
-          "Emil Cioran (1911-1995) là một nhà triết học Romania nổi tiếng, người viết về tuyệt vọng, vô nghĩa, và sự vô vọng của cuộc sống. Ông là một nhà hư vô chủ nghĩa hiện sinh, người tin rằng cuộc sống không có ý nghĩa nội tại và chúng ta đều bị 'lưu đày' vào sự tồn tại. Tác phẩm của ông, như 'Sự Phá Vỡ Của Tôi' (The Trouble with Being Born), là những bản tuyên ngôn của tuyệt vọng triết học. Tuy nhiên, Cioran không rơi vào sự tự tử hay sự tuyệt vọng hoàn toàn, mà tìm thấy một loại hạnh phúc trong sự chấp nhận vô điều kiện của sự vô nghĩa.",
-        slug: "cioran",
+          "Albert Camus (1913–1960) mặc dù từ chối nhãn hiệu 'hiện sinh', được coi là một trụ cột của phong trào. Ông tập trung vào Sự Phi Lý - cảm giác xung đột khi con người khao khát tìm kiếm ý nghĩa nhưng lại phải đối mặt với một vũ trụ lạnh lùng, phi lý. Giải pháp của ông không phải là tự tử hay hy vọng hão huyền, mà là Sự Nổi Loạn - sống hết mình, yêu tự do, và đam mê, ngay cả khi biết rằng mọi thứ là vô nghĩa.",
+        slug: "camus",
+      },
+    ],
+  },
+  romanticism: {
+    name: "CHỦ NGHĨA LÃNG MẠN",
+    introduction: `Chủ Nghĩa Lãng Mạn là một trào lưu văn hóa, nghệ thuật, văn học và triết học vô cùng sâu rộng, bùng nổ ở châu Âu vào cuối thế kỷ 18 và đầu thế kỷ 19 (khoảng 1780–1850). Nó không chỉ là một trường phái triết học có hệ thống như Chủ nghĩa Duy lý hay Kinh nghiệm, mà là một 'cuộc cách mạng tinh thần' toàn diện.
+
+Chủ nghĩa Lãng Mạn là một sự phản kháng mạnh mẽ chống lại trật tự xã hội và các giá trị của Thời kỳ Khai sáng (The Enlightenment). Nếu Thời kỳ Khai sáng tôn sùng lý trí, logic, trật tự, khoa học, và sự phổ quát (universalism), thì Chủ nghĩa Lãng Mạn tôn vinh những điều hoàn toàn ngược lại: cảm xúc, trực giác, trí tưởng tượng, sự hỗn loạn, và trải nghiệm cá nhân độc nhất.
+
+Nó tìm cách giải phóng cá nhân khỏi các quy tắc xã hội cứng nhắc và sự 'lạnh lùng' của cách mạng công nghiệp đang trỗi dậy.`,
+    quote: '"Tôi cảm thấy, vậy tôi tồn tại." - Jean-Jacques Rousseau',
+    philosophers: [
+      {
+        name: "Jean-Jacques Rousseau",
+        role: "Nhà triết học Pháp",
+        description:
+          "Jean-Jacques Rousseau (1712–1778) được coi là 'cha đẻ' của Chủ nghĩa Lãng Mạn. Mặc dù sống trước thời kỳ này, tư tưởng của ông đã mở đường cho toàn bộ phong trào. Rousseau cho rằng 'con người tự nhiên' (noble savage) sống trong trạng thái nguyên thủy là tốt đẹp, và chính 'văn minh' và 'lý trí' đã làm tha hóa con người. Ông đề cao 'cảm xúc' (sentiment) là tiếng nói đích thực của đạo đức, và tin rằng trái tim con người là nơi tìm thấy sự thật.",
+        slug: "rousseau",
+      },
+      {
+        name: "William Wordsworth",
+        role: "Nhà thơ Anh",
+        description:
+          "William Wordsworth (1770–1850) là một trong những nhà thơ lãng mạn vĩ đại nhất. Ông tin rằng tự nhiên là một nguồn cảm hứng thiêng liêng, và thơ ca là cách để bộc lộ cảm xúc sâu sắc nhất của con người. Tác phẩm của ông, đặc biệt là 'Lyrical Ballads', đã định hình lại thơ ca Anh. Wordsworth nhấn mạnh tầm quan trọng của trí tưởng tượng và cảm xúc trong việc hiểu thế giới, hơn là lý trí khô cứng.",
+        slug: "wordsworth",
+      },
+      {
+        name: "Lord Byron",
+        role: "Nhà thơ Anh",
+        description:
+          "Lord Byron (1788–1824) là một hình tượng của nhà thơ lãng mạn nổi loạn. Ông sống hết mình vì cảm xúc, tình yêu, và tự do. Tác phẩm của ông, như 'Childe Harold's Pilgrimage' và 'Don Juan', phản ánh sự khao khát tìm kiếm ý nghĩa và cảm xúc chân thực. Byron là biểu tượng của 'thiên tài lãng mạn' - một cá nhân độc đáo, sáng tạo, và không tuân theo các quy tắc xã hội.",
+        slug: "byron",
       },
     ],
   },
@@ -301,6 +341,10 @@ export default function TopicPage({
 
   if (!data) return null
 
+  const handleBack = () => {
+    window.history.back()
+  }
+
   return (
     <div className="min-h-screen bg-background">
       {/* Header */}
@@ -310,7 +354,7 @@ export default function TopicPage({
         animate={{ opacity: 1, y: 0 }}
       >
         <div className="max-w-4xl mx-auto px-4 py-4 flex items-center gap-4">
-          <button onClick={onBack} className="p-2 hover:bg-muted rounded-lg transition-colors">
+          <button onClick={handleBack} className="p-2 hover:bg-muted rounded-lg transition-colors">
             <ChevronLeft className="w-6 h-6" />
           </button>
           <h1 className="text-2xl font-bold text-accent" style={{ fontFamily: "var(--font-playfair)" }}>
@@ -393,9 +437,46 @@ export default function TopicPage({
           )}
         </motion.section>
 
-        {/* AI Chat */}
         <AnimatePresence>
-          {showChat && <AIChat topicId={topicId} topicName={data.name} onClose={() => setShowChat(false)} />}
+          {showChat && (
+            <motion.div
+              className="fixed inset-0 z-50 flex items-center justify-center bg-black/50 p-4"
+              initial={{ opacity: 0 }}
+              animate={{ opacity: 1 }}
+              exit={{ opacity: 0 }}
+            >
+              <motion.div
+                className="w-full max-w-2xl h-[600px] bg-card rounded-lg shadow-lg flex flex-col"
+                initial={{ scale: 0.95, opacity: 0 }}
+                animate={{ scale: 1, opacity: 1 }}
+                exit={{ scale: 0.95, opacity: 0 }}
+              >
+                {/* Header */}
+                <div className="flex items-center justify-between p-4 border-b border-border">
+                  <h3 className="text-lg font-semibold text-accent">Cuộc Đối Thoại Ánh Sáng</h3>
+                  <button
+                    onClick={() => setShowChat(false)}
+                    className="p-2 hover:bg-muted rounded-lg transition-colors"
+                  >
+                    <X className="w-5 h-5" />
+                  </button>
+                </div>
+
+                {/* Botpress Iframe */}
+                <div className="flex-1 overflow-hidden">
+                  <iframe
+                    src="https://cdn.botpress.cloud/webchat/v3.3/shareable.html?configUrl=https://files.bpcontent.cloud/2025/10/24/06/20251024060157-VU0NNAH7.json"
+                    style={{
+                      border: "none",
+                      width: "100%",
+                      height: "100%",
+                    }}
+                    allow="microphone"
+                  />
+                </div>
+              </motion.div>
+            </motion.div>
+          )}
         </AnimatePresence>
       </div>
 

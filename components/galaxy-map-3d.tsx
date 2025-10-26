@@ -21,11 +21,6 @@ const topics: Topic[] = [
     tagline: "Tự do tạo ra ý nghĩa cuộc đời mình trong một vũ trụ phi lý.",
   },
   {
-    id: "nihilism",
-    name: "Chủ Nghĩa Hư Vô",
-    tagline: "Hoài nghi về mọi giá trị và ý nghĩa khách quan của cuộc sống.",
-  },
-  {
     id: "utilitarianism",
     name: "Chủ Nghĩa Vị Lợi",
     tagline: "Hành động đúng là hành động mang lại hạnh phúc cho nhiều người nhất.",

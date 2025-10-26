@@ -20,6 +20,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="vi">
+      <head></head>
       <body className={`${playfair.variable} ${inter.variable} font-sans antialiased bg-background text-foreground`}>
         {children}
         <Analytics />
